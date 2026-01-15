@@ -2,7 +2,6 @@
 
 Este repositório contém meus estudos, exercícios e projetos desenvolvidos durante o curso **Maratona Java** do **DevDojo**.
 
-O objetivo deste repositório é construir uma base sólida em **Java**, desde os fundamentos da linguagem até conceitos avançados de **programação orientada a objetos e Java moderno**, preparando-me para atuar como desenvolvedor backend.
 
 ---
 
@@ -41,7 +40,7 @@ O objetivo deste repositório é construir uma base sólida em **Java**, desde o
 ---
 
 ## 🎯 Objetivo
-Desenvolver uma base sólida em **Java** e **programação orientada a objetos**, visando atuar futuramente como **desenvolvedor backend**, utilizando frameworks e integração com banco de dados.
+O objetivo deste repositório é construir uma base sólida em **Java**, desde os fundamentos da linguagem até conceitos avançados de **programação orientada a objetos e Java moderno**, preparando-me para atuar como desenvolvedor backend.
 
 ---
 
